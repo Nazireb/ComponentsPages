@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/part8/static/css/main.de5f0ff0.css",
-    "main.js": "/part8/static/js/main.879d93fd.js",
-    "index.html": "/part8/index.html",
-    "main.de5f0ff0.css.map": "/part8/static/css/main.de5f0ff0.css.map",
-    "main.879d93fd.js.map": "/part8/static/js/main.879d93fd.js.map"
+    "main.css": "/Nazireb/ComponentsPages/static/css/main.de5f0ff0.css",
+    "main.js": "/Nazireb/ComponentsPages/static/js/main.3d6a1edf.js",
+    "index.html": "/Nazireb/ComponentsPages/index.html",
+    "main.de5f0ff0.css.map": "/Nazireb/ComponentsPages/static/css/main.de5f0ff0.css.map",
+    "main.3d6a1edf.js.map": "/Nazireb/ComponentsPages/static/js/main.3d6a1edf.js.map"
   },
   "entrypoints": [
     "static/css/main.de5f0ff0.css",
-    "static/js/main.879d93fd.js"
+    "static/js/main.3d6a1edf.js"
   ]
 }
